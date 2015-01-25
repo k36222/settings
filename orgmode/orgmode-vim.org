@@ -1,0 +1,13 @@
+#+TITLE: org-mode(Vim風) 
+#+AUTHOR: Keisuke Tanaka
+#+LANGUAGE: ja
+* COMMENT #+OPTIONS: H:2 toc:nil num:nil author:nil creator:nil LaTeX:t
+* COMMENT #+STYLE: <link rel="stylesheet" type="text/css" href="org.css">
+
+* gnupackのインストール
+  [[http://sourceforge.jp/projects/gnupack/][gnupack]]
+
+* Evilのセットアップ
+  下記リンクの *Quick install* にそってインストールする
+
+  [[http://www.emacswiki.org/emacs/Evil][ Evil]]
